@@ -62,7 +62,7 @@ java Main
 - Persistência de dados (arquivo ou banco de dados)
 - Interface gráfica
 - Validação de entradas inválidas (ex: letras no lugar de números)
-- Separação em classes (orientação a objetos)
+- Separação em classes (orientação a objetos) ✔️
 
 ## 📚 Contexto
 Projeto desenvolvido para fins educacionais durante a formação da Alura, com foco em prática de fundamentos da linguagem Java.
