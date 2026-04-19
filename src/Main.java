@@ -19,9 +19,8 @@ public class Main {
                 
                 -----------------------------------------------------
                 """;
+        
         int opcaoMenu;
-
-
         do {
             primeiraConta.mostraConta();
             System.out.println(menu);
